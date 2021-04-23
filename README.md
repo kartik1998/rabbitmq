@@ -1,2 +1,1 @@
 ## Rabbitmq - Node JS
-
