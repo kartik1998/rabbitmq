@@ -1,0 +1,1 @@
+<blockquote>link:https://www.rabbitmq.com/tutorials/tutorial-five-javascript.html</blockquote>
